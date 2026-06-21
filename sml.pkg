@@ -1,0 +1,4 @@
+package github.com/sjqtentacles/sml-chacha20
+
+require {
+}
